@@ -1,0 +1,65 @@
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<h2>relaesing movies</h2>
+<table>
+<tr>
+<th>Film</th>
+<th>Releasing Date</th>
+<th>Genre</th>
+</tr>
+ <tr>
+    <td>Manmarziyan</td>
+    <td>07 September 2018</td>
+    <td>Romantic Comedy</td>
+  </tr>
+  <tr>
+    <td>Paltan</td>
+    <td>07 September 2018</td>
+    <td>War Drama</td>
+  </tr>
+  <tr>
+    <td>Sui Dhaaga</td>
+    <td>28 September 2018</td>
+    <td>Comedy Drama</td>
+  </tr>
+  <tr>
+    <td>Batti Gul Meter Chalu</td>
+    <td>21 September 2018</td>
+    <td>Drama Film</td>
+  </tr>
+  <tr>
+    <td>Loveratri</td>
+    <td>05 October 2018</td>
+    <td>Musical Drama </td>
+  </tr>
+  <tr>
+    <td>2.0</td>
+    <td>29 November 2018</td>
+    <td>Sci-Fi</td>
+  </tr>
+</table>
+ </body>
+
+
+
+
+</html>
